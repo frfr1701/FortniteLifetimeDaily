@@ -1,0 +1,7 @@
+
+.gitattributes
+*.xml
+*.iml
+*.MF
+*.jar
+*.class
